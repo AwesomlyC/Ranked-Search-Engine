@@ -1,7 +1,7 @@
 # Ranked-Search-Engine
 
 # Brief Description
-A simple search engine that uses a pre-defined corpus to create an inverted index. This index is used to search for query termsm in the corpus.
+A simple search engine that uses a pre-defined corpus to create an inverted index. This index is used to search for query terms in the corpus.
 
 # How-to-Run
 <pre>
